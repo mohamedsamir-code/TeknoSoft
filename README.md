@@ -10,7 +10,6 @@
   
 
 
-<img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
  <h1>La-Moda E-Commerce App Features</h1>
   <ul>
     <li><strong>Clean Architecture:</strong> Implement a well-structured architecture for maintainability and scalability.</li>
